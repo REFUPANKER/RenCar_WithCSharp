@@ -4,3 +4,10 @@
  in this app we can rent <b> fake </b> cars       <br>
  we will use the ads for earning car points  <br>
  with car points,we can rent a vehicles      <br>
+ 
+ 
+ 
+ 
+ ## NEWS
+ app changed from Online based To Local(Offline) Based
+ So i will use Microsoft AccessDatabase 
